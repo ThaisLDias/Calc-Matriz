@@ -63,9 +63,11 @@ namespace WindowsFormsApplication1
                     }
                 }
             }
-           
-           
+
+
         }
+
+
         private void clear(object sender, EventArgs e)
         {
             if (matriz1.Count > 0) { 
@@ -116,8 +118,8 @@ namespace WindowsFormsApplication1
                         textBoxC.Text = c.ToString();
                         matriz3.Add(Convert.ToInt32(i.ToString() + j.ToString()), textBoxC);
                     }
-                
             }
+                
         }
         private void subtracao(object sender, EventArgs e)
         {
