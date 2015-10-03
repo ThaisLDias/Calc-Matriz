@@ -53,7 +53,7 @@ Obs: A entrada das coordenadas dos pontos só podem ser multiplos de 100.
 
 Esperamos que Calc-Matriz tenha ajudado você a entender o funcionamento de cálculos entre matrizes.
 
-Agradecimentos Especiais à **Daniel Cavalli, João Ricardo e Victor Fernandes**.
+Agradecimentos Especiais à **Daniel Cavalli, João Ricardo, Maurício Leonardo e Victor Fernandes**.
 
 
 
